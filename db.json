@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "name": "Kyrylo Hrebin",
+      "number": "380667273194",
+      "id": 1
+    },
+    {
+      "name": "Jozek Tuszynski",
+      "number": "48732081729",
+      "id": 2
+    },
+    {
+      "name": "Martin Saguna",
+      "number": "40312296870",
+      "id": 3
+    }
+  ]
+}
